@@ -1,4 +1,5 @@
 Assignments:
+
 emotion-counter: A simple React app built with Vite. The program has 5 different emotions shown with a simple counter button. 
 Users can click the button and the app updates the counter and background. Assignment focused on state mangement, JSX, and component strucutre in React.
 
