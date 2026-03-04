@@ -1,0 +1,1 @@
+Interactive mood selector program built with React and Vite
